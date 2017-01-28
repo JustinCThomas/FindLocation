@@ -7,3 +7,5 @@ user gives permission, displays the the coordinates.
 
 The program also generates a Google Maps link using those coordinates to 
 estimate where the user currently is. 
+
+https://justincthomas.github.io/FindLocation/
